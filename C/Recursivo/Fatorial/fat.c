@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Protótipo
 int fatorial(int);
 
 main(){
@@ -13,7 +12,6 @@ main(){
 
 }
 
-// Função
 int fatorial(int x){
 
   if(x != 0){
@@ -25,6 +23,5 @@ int fatorial(int x){
   }
 
 return x;
-
 
 }
